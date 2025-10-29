@@ -4,6 +4,8 @@
 **LoanChain** is a beginner-friendly Solidity smart contract designed to keep an **immutable on-chain record** of all borrowed and repaid funds.  
 It acts as a transparent ledger where every loan and repayment is permanently stored on the blockchain — ensuring **trust, transparency, and immutability** between parties.
 
+<img width="1919" height="964" alt="Screenshot 2025-10-29 140605" src="https://github.com/user-attachments/assets/bc8cb115-ab0c-40d1-9b6e-a057eca03358" />
+
 This project is perfect for developers learning how to:
 - Use **structs**, **arrays**, and **events** in Solidity  
 - Store and retrieve on-chain data  
